@@ -23,7 +23,7 @@
     text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
 
     /* Clip Background Image */
-    background: url(/assetbox/img/animated-text-fill.jpg) repeat-y;
+    background: url(./assetbox/img/animated-text-fill.jpg) repeat-y;
     -webkit-background-clip: text;
     background-clip: text;
 
